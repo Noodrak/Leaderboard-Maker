@@ -8,3 +8,15 @@ C:\Users\Nicolas\Desktop\Leaderboard-Maker\ProjetPerso\obj\Debug\ProjetPerso.csp
 C:\Users\Nicolas\Desktop\Leaderboard-Maker\ProjetPerso\obj\Debug\ProjetPerso.csproj.CoreCompileInputs.cache
 C:\Users\Nicolas\Desktop\Leaderboard-Maker\ProjetPerso\obj\Debug\ProjetPerso.exe
 C:\Users\Nicolas\Desktop\Leaderboard-Maker\ProjetPerso\obj\Debug\ProjetPerso.pdb
+C:\Users\Miguel.ESCLR\Desktop\Leaderboard-Maker\Leaderboard-Maker\ProjetPerso\bin\Debug\ProjetPerso.exe.config
+C:\Users\Miguel.ESCLR\Desktop\Leaderboard-Maker\Leaderboard-Maker\ProjetPerso\bin\Debug\ProjetPerso.exe
+C:\Users\Miguel.ESCLR\Desktop\Leaderboard-Maker\Leaderboard-Maker\ProjetPerso\bin\Debug\ProjetPerso.pdb
+C:\Users\Miguel.ESCLR\Desktop\Leaderboard-Maker\Leaderboard-Maker\ProjetPerso\obj\Debug\ProjetPerso.csproj.AssemblyReference.cache
+C:\Users\Miguel.ESCLR\Desktop\Leaderboard-Maker\Leaderboard-Maker\ProjetPerso\obj\Debug\ProjetPerso.Form4.resources
+C:\Users\Miguel.ESCLR\Desktop\Leaderboard-Maker\Leaderboard-Maker\ProjetPerso\obj\Debug\ProjetPerso.FrmBienvenue.resources
+C:\Users\Miguel.ESCLR\Desktop\Leaderboard-Maker\Leaderboard-Maker\ProjetPerso\obj\Debug\ProjetPerso.Frminfoequipe.resources
+C:\Users\Miguel.ESCLR\Desktop\Leaderboard-Maker\Leaderboard-Maker\ProjetPerso\obj\Debug\ProjetPerso.Properties.Resources.resources
+C:\Users\Miguel.ESCLR\Desktop\Leaderboard-Maker\Leaderboard-Maker\ProjetPerso\obj\Debug\ProjetPerso.csproj.GenerateResource.cache
+C:\Users\Miguel.ESCLR\Desktop\Leaderboard-Maker\Leaderboard-Maker\ProjetPerso\obj\Debug\ProjetPerso.csproj.CoreCompileInputs.cache
+C:\Users\Miguel.ESCLR\Desktop\Leaderboard-Maker\Leaderboard-Maker\ProjetPerso\obj\Debug\ProjetPerso.exe
+C:\Users\Miguel.ESCLR\Desktop\Leaderboard-Maker\Leaderboard-Maker\ProjetPerso\obj\Debug\ProjetPerso.pdb
