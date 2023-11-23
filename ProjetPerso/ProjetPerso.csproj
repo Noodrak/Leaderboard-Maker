@@ -114,8 +114,14 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAjouterunepartieequipe.resx">
+      <DependentUpon>FrmAjouterunepartieequipe.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmBienvenue.resx">
       <DependentUpon>FrmBienvenue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frminfoequipe.resx">
+      <DependentUpon>Frminfoequipe.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
