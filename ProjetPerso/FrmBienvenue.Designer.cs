@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmBienvenue));
             this.lblBienvenue = new System.Windows.Forms.Label();
             this.btnCommencer = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -62,9 +63,11 @@
             this.ClientSize = new System.Drawing.Size(1077, 564);
             this.Controls.Add(this.btnCommencer);
             this.Controls.Add(this.lblBienvenue);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FrmBienvenue";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Leaderboard Maker";
+            this.Load += new System.EventHandler(this.FrmBienvenue_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

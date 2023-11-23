@@ -16,5 +16,10 @@ namespace ProjetPerso
         {
             InitializeComponent();
         }
+
+        private void FrmBienvenue_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
