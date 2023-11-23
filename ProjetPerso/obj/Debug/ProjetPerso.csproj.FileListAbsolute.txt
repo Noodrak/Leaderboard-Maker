@@ -1,0 +1,10 @@
+C:\Users\Nicolas\Desktop\Leaderboard-Maker\ProjetPerso\bin\Debug\ProjetPerso.exe.config
+C:\Users\Nicolas\Desktop\Leaderboard-Maker\ProjetPerso\bin\Debug\ProjetPerso.exe
+C:\Users\Nicolas\Desktop\Leaderboard-Maker\ProjetPerso\bin\Debug\ProjetPerso.pdb
+C:\Users\Nicolas\Desktop\Leaderboard-Maker\ProjetPerso\obj\Debug\ProjetPerso.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Desktop\Leaderboard-Maker\ProjetPerso\obj\Debug\ProjetPerso.FrmBienvenue.resources
+C:\Users\Nicolas\Desktop\Leaderboard-Maker\ProjetPerso\obj\Debug\ProjetPerso.Properties.Resources.resources
+C:\Users\Nicolas\Desktop\Leaderboard-Maker\ProjetPerso\obj\Debug\ProjetPerso.csproj.GenerateResource.cache
+C:\Users\Nicolas\Desktop\Leaderboard-Maker\ProjetPerso\obj\Debug\ProjetPerso.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Desktop\Leaderboard-Maker\ProjetPerso\obj\Debug\ProjetPerso.exe
+C:\Users\Nicolas\Desktop\Leaderboard-Maker\ProjetPerso\obj\Debug\ProjetPerso.pdb

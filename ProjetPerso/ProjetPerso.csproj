@@ -46,6 +46,66 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FrmAjouterunepartieequipe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAjouterunepartieequipe.Designer.cs">
+      <DependentUpon>FrmAjouterunepartieequipe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAjouterunepartiesolo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAjouterunepartiesolo.Designer.cs">
+      <DependentUpon>FrmAjouterunepartiesolo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmleaderboardsolo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmleaderboardsolo.Designer.cs">
+      <DependentUpon>Frmleaderboardsolo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmleaderboardequipe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmleaderboardequipe.Designer.cs">
+      <DependentUpon>Frmleaderboardequipe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenuPrincipale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenuPrincipale.Designer.cs">
+      <DependentUpon>FrmMenuPrincipale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSystPoint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSystPoint.Designer.cs">
+      <DependentUpon>FrmSystPoint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmModifier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmModifier.Designer.cs">
+      <DependentUpon>FrmModifier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frminfoequipe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frminfoequipe.Designer.cs">
+      <DependentUpon>Frminfoequipe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frminfojoueurs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frminfojoueurs.Designer.cs">
+      <DependentUpon>Frminfojoueurs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmParaduclassement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmParaduclassement.Designer.cs">
+      <DependentUpon>FrmParaduclassement.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmBienvenue.cs">
       <SubType>Form</SubType>
     </Compile>
