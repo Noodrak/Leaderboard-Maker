@@ -54,6 +54,7 @@
             this.btnCommencer.TabIndex = 1;
             this.btnCommencer.Text = "Commencer";
             this.btnCommencer.UseVisualStyleBackColor = false;
+            this.btnCommencer.Click += new System.EventHandler(this.btnCommencer_Click);
             // 
             // FrmBienvenue
             // 

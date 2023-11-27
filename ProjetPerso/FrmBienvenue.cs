@@ -21,5 +21,12 @@ namespace ProjetPerso
         {
 
         }
+
+        private void btnCommencer_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            FrmParaduclassement frmParaduclassement = new FrmParaduclassement();
+            frmParaduclassement.ShowDialog();
+        }
     }
 }
