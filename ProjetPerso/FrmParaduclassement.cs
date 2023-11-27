@@ -16,5 +16,10 @@ namespace ProjetPerso
         {
             InitializeComponent();
         }
+
+        private void CbxNbrjoueur(object sender, EventArgs e)
+        {
+
+        }
     }
 }
